@@ -5,4 +5,4 @@ Os dados foram obtidos pelo artigo cientifico "Epidemiological data from the COV
 
 O artigo consistiu em coletar dados de pacientes acometidos pela covid19, atestados por exames RT-PCR.
 
-Utilizando esses dados, criei o projeto no qual consiste em verificar as interdependências entre os sintomas apresentados e as doenças pré-existentes dos pacientes pacientes analisados.
+Utilizando esses dados, criei o projeto no qual consiste em verificar as interdependências entre os sintomas apresentados e as doenças pré-existentes dos pacientes pacientes analisados com o desfefcho do caso(Obito/Crítico ou Recuperado).
